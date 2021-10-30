@@ -1,5 +1,5 @@
 # authenticator-sql
-authenticator-sql は、authenticatorの稼働に関連して、ユーザーのSQLのテーブルを作成するためのレポジトリです。  
+authenticator-sql は、authenticatorの稼働に関連して、ユーザー の SQLテーブル を作成するためのレポジトリです。  
 
 # 動作環境
 authenticator-sql は、Kubernetes上での動作を前提としています。Kubernetesの環境構築後に起動してください。  
